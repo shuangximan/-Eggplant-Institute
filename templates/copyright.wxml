@@ -1,0 +1,3 @@
+<template name="tempCopyright">
+<view>  © 2018 茄子研究所 q-z.top      </view>
+</template>
